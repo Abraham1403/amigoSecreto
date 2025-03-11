@@ -61,9 +61,9 @@ cd amigoSecreto
 - [Abraham Ayala González](https://github.com/Abraham1403)
 
 ## Versionado 📌
-Usamos [GitHub](https://github.com/) para el versionado. Para todas las versiones disponibles, mira los tags en este repositorio.
+Usamos [GitHub](https://github.com/) para el versionado. Para todas las versiones disponibles, mira los tags en este repositorio <a href="https://docs.github.com/en/repositories/releasing-projects-on-github/viewing-your-repositorys-releases-and-tags">tags</a>.
 
-## Licencia
+## Licencia 📄
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Conclusión
