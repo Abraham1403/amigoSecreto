@@ -21,7 +21,7 @@
 <li><strong>CSS</strong>: Para el diseño y estilo de la aplicación.</li>
 <li><strong>JavaScript</strong>: Para la lógica de la aplicación y la funcionalidad de selección aleatoria.</li>
 
-##Instalación
+## Instalación
 
 Para ejecutar el proyecto en tu máquina local, sigue estos pasos:
 
