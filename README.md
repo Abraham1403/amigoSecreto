@@ -41,3 +41,61 @@ cd amigoSecreto
 <li>La aplicación mostrará quién es el amigo secreto de cada participante.</li>
 
 
+
+# README del Proyecto Amigo Secreto
+
+![Portada del Proyecto](ruta/a/tu/imagen/de/portada.png)
+
+## Insignias
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-orange.svg)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-blue.svg)](https://developer.mozilla.org/es/docs/Web/CSS)
+
+## Índice
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Estado del Proyecto](#estado-del-proyecto)
+- [Características de la Aplicación y Demostración](#características-de-la-aplicación-y-demostración)
+- [Acceso al Proyecto](#acceso-al-proyecto)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Personas Contribuyentes](#personas-contribuyentes)
+- [Personas Desarrolladores](#personas-desarrolladores)
+- [Licencia](#licencia)
+- [Conclusión](#conclusión)
+
+## Descripción del Proyecto
+Amigo Secreto es una aplicación web sencilla que permite a los usuarios ingresar los nombres de sus amigos y, al finalizar el registro, seleccionar aleatoriamente quién será el amigo secreto de cada uno. La aplicación está desarrollada utilizando JavaScript, HTML y CSS, y es ideal para organizar juegos de amigo secreto en grupos de amigos, familiares o compañeros de trabajo.
+
+## Estado del Proyecto
+El proyecto se encuentra en su versión inicial y está completamente funcional. Se están considerando futuras mejoras y características adicionales basadas en la retroalimentación de los usuarios.
+
+## Características de la Aplicación y Demostración
+- **Registro de Amigos**: Permite ingresar múltiples nombres de amigos.
+- **Selección Aleatoria**: Al hacer clic en un botón, se selecciona aleatoriamente quién es el amigo secreto de cada persona.
+- **Interfaz Intuitiva**: La aplicación cuenta con una interfaz amigable y fácil de usar.
+
+### Demostración
+Puedes ver una demostración de la aplicación en el siguiente enlace: [Demo de Amigo Secreto](https://github.com/Abraham1403/amigoSecreto.git)
+
+## Acceso al Proyecto
+Puedes acceder al proyecto y su código fuente en el siguiente repositorio de GitHub: [Repositorio de Amigo Secreto](https://github.com/Abraham1403/amigoSecreto.git)
+
+## Tecnologías Utilizadas
+- **JavaScript**: Para la lógica de la aplicación.
+- **HTML**: Para la estructura de la página.
+- **CSS**: Para el diseño y estilo visual.
+
+## Personas Contribuyentes
+- [Abraham Ayala González](https://github.com/Abraham1403)
+- 
+## Personas Desarrolladores
+- [Abraham Ayala González](https://github.com/Abraham1403)
+
+## Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Conclusión
+Amigo Secreto es una herramienta divertida y útil para organizar juegos de amigo secreto. Espero que disfrutes usándola tanto como yo disfruté desarrollándola. ¡No dudes en contribuir y mejorar el proyecto!
+
+
+¡Gracias por tu interés en Amigo Secreto!.
+
