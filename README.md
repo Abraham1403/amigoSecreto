@@ -1,6 +1,14 @@
 # Challenge amigo secreto.
 
-Esta página está dedicada a realizar un cálculo aleatorio entre un array que almacenará los nombres de una cantidad variable de amigos. Los nombres se sortearán y el seleccionado se mostrará en un campo de texto, informando cuál fue el elegido. Asimismo, la aplicación web validará que no se inserten valores vacíos y que, al presionar el botón para sortear a los amigos, el array no quede vacío.
+¡Bienvenido al proyecto Amigo Secreto! Este es un sencillo juego que permite a los usuarios ingresar los nombres de sus amigos y, al final, seleccionar aleatoriamente quién será el amigo secreto de cada uno. El proyecto está desarrollado utilizando JavaScript, HTML y CSS.
+
+# Tabla de Contenidos
+Características
+Tecnologías Utilizadas
+Instalación
+Uso
+Contribuciones
+Licencia
 
 ## Comenzando 🚀
 
