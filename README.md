@@ -26,9 +26,18 @@
 Para ejecutar el proyecto en tu máquina local, sigue estos pasos:
 
 1.- Clona el repositorio:
-git clone https://github.com/tu_usuario/amigoSecreto.git
+git clone https://github.com/Abraham1403/amigoSecreto.git
 
-Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+2.- Navega al directorio del proyecto:
+cd amigoSecreto
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+3.-Abre el archivo index.html en tu navegador web.
+
+## Uso
+<li>Abre la aplicación en tu navegador.</li>
+<li>Ingresa los nombres de tus amigos en el campo de texto proporcionado.</li>
+<li>Haz clic en el botón "Registrar" para añadir el nombre al array.</li>
+<li>Una vez que hayas ingresado todos los nombres, haz clic en el botón "Calcular Amigo Secreto".</li>
+<li>La aplicación mostrará quién es el amigo secreto de cada participante.</li>
+
 
