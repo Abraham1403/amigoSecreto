@@ -9,7 +9,7 @@
 
 
 ## Índice 📋
-<li>[Descripción del Proyecto](#descripción-del-proyecto)</li>
+<li>Descripción del Proyecto</li>
 <li>Características</li>
 <li>Estado del Proyecto</li>
 <li>Tecnologías Utilizadas</li>
