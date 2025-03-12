@@ -64,7 +64,7 @@ cd amigoSecreto
 Usamos [GitHub](https://github.com/) para el versionado. Para todas las versiones disponibles, mira los tags en este repositorio <a href="https://docs.github.com/en/repositories/releasing-projects-on-github/viewing-your-repositorys-releases-and-tags">tags</a>.
 
 ## Licencia 📄
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Sin licencia
 
 ## Conclusión
 Amigo Secreto es una herramienta divertida y útil para organizar juegos de amigo secreto. Espero que disfrutes usándola tanto como yo disfruté desarrollándola. ¡No dudes en contribuir y mejorar el proyecto!
