@@ -50,8 +50,8 @@ cd amigoSecreto
 ## Uso
 <li>Abre la aplicación en tu navegador.</li>
 <li>Ingresa los nombres de tus amigos en el campo de texto proporcionado.</li>
-<li>Haz clic en el botón "Registrar" para añadir el nombre al array.</li>
-<li>Una vez que hayas ingresado todos los nombres, haz clic en el botón "Calcular Amigo Secreto".</li>
+<li>Haz clic en el botón "Añadir" para añadir el nombre al array.</li>
+<li>Una vez que hayas ingresado todos los nombres, haz clic en el botón "Sortear amigo".</li>
 <li>La aplicación mostrará quién es el amigo secreto para cada participante.</li>
 
 ## Personas Contribuyentes 🖇️
