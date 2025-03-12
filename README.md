@@ -19,7 +19,7 @@
 <li>Licencia</li>
 
 ## Descripción del Proyecto 📖
-Amigo Secreto es una aplicación web sencilla que permite a los usuarios ingresar los nombres de sus amigos y, al finalizar el registro, seleccionar aleatoriamente quién será el amigo secreto de cada uno. La aplicación está desarrollada utilizando JavaScript, HTML y CSS, y es ideal para organizar juegos de amigo secreto en grupos de amigos, familiares o compañeros de trabajo.
+Amigo Secreto es una aplicación web sencilla que permite a los usuarios ingresar los nombres de sus amigos y, al finalizar el registro, seleccionar aleatoriamente quién será el amigo secreto seleccionado. La aplicación está desarrollada utilizando JavaScript, HTML y CSS, y es ideal para organizar juegos de amigo secreto con amigos, familiares o compañeros de trabajo.
 
 ## Características 🔩
 <li>Permite ingresar múltiples nombres de amigos.</li>
@@ -28,7 +28,7 @@ Amigo Secreto es una aplicación web sencilla que permite a los usuarios ingresa
 <li>Interfaz sencilla y fácil de usar.</li>
 
 ## Estado del Proyecto 🚀
-El proyecto se encuentra en su versión inicial y está completamente funcional. Se están considerando futuras mejoras y características adicionales basadas en la retroalimentación de los usuarios.
+El proyecto se encuentra en su versión inicial y está completamente funcional. 
 
 ## Tecnologías Utilizadas 🛠️
 <li> <strong>HTML</strong>: Para la estructura del documento.</li>
@@ -52,7 +52,7 @@ cd amigoSecreto
 <li>Ingresa los nombres de tus amigos en el campo de texto proporcionado.</li>
 <li>Haz clic en el botón "Registrar" para añadir el nombre al array.</li>
 <li>Una vez que hayas ingresado todos los nombres, haz clic en el botón "Calcular Amigo Secreto".</li>
-<li>La aplicación mostrará quién es el amigo secreto de cada participante.</li>
+<li>La aplicación mostrará quién es el amigo secreto para cada participante.</li>
 
 ## Personas Contribuyentes 🖇️
 <li>[Abraham Ayala González](https://github.com/Abraham1403)</li>
